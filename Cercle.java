@@ -4,29 +4,29 @@ public class Cercle{
 
 	Cercle() {}
 
-	Cercle(float xx, float yy){
+	Cercle(float xx, float yy) {
 	  x=xx;
 	  y=yy;
 	}
 
-	public float getX(){
+	public float getX() {
 	  return this.x;
 	}
 
-	public float getY(){
+	public float getY() {
 	  return this.y;
 	}
 
-	public void setX(){
+	public void setX() {
 	  this.x = x;
 	}
 
-	public void setY(){
+	public void setY() {
 	  this.y = y;
 	}
 
-	void toString(){}
+	void toString() {}
 
-	void Equals(){}
+	void Equals() {}
 }
 
